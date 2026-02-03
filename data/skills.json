@@ -1,0 +1,103 @@
+{
+  "_instructions": "Organize your skills with vibrant colors.",
+  "sectionTitle": "Skills & Technologies",
+  "categories": [
+    {
+      "category": "Programming Languages",
+      "icon": "fas fa-code",
+      "color": "#FF6B6B",
+      "skills": [
+        "Python",
+        "SQL",
+        "R"
+      ]
+    },
+    {
+      "category": "Frameworks & Libraries",
+      "icon": "fas fa-toolbox",
+      "color": "#4ECDC4",
+      "skills": [
+        "Scikit-Learn",
+        "ggplot2",
+        "Pandas",
+        "NumPy",
+        "Matplotlib",
+        "SciPy",
+        "Seaborn",
+        "Apache Spark",
+        "Apache Hadoop",
+        "Apache Kafka",
+        "Apache Beam",
+        "PySQL",
+        "PySpark",
+        "Hive"
+      ]
+    },
+    {
+      "category": "Tools & Platforms",
+      "icon": "fas fa-wrench",
+      "color": "#FFE66D",
+      "skills": [
+        "Tableau",
+        "Power BI",
+        "Advanced Excel",
+        "Visual Studio Code",
+        "PyCharm",
+        "Jupyter Notebook",
+        "IntelliJ",
+        "MySQL",
+        "MongoDB",
+        "PostgreSQL",
+        "Oracle",
+        "Tera Data",
+        "Azure",
+        "AWS",
+        "Google Analytics",
+        "DAX",
+        "SAS",
+        "JIRA",
+        "SAP",
+        "SSIS",
+        "SSRS",
+        "Git",
+        "GitHub",
+        "Redshift",
+        "Snowflake",
+        "Apache Airflow",
+        "Talend",
+        "Informatica"
+      ]
+    },
+    {
+      "category": "Technical Skills",
+      "icon": "fas fa-laptop-code",
+      "color": "#A8DADC",
+      "skills": [
+        "SDLC",
+        "Agile",
+        "Waterfall",
+        "Machine Learning Algorithms",
+        "Data Mining",
+        "Data Visualization",
+        "Data warehousing",
+        "Data transformation",
+        "Data Storytelling",
+        "Clustering",
+        "Classification",
+        "Regression",
+        "A/B Testing",
+        "Forecasting & Modelling",
+        "Data Cleaning",
+        "Data Wrangling",
+        "Process Mapping",
+        "Project Management",
+        "Requirement Gathering",
+        "Root Cause Analysis",
+        "Quantitative Analytics",
+        "ETL/ELT",
+        "HIPAA",
+        "SOX"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "_instructions": "About section.",
+  "sectionTitle": "About Me",
+  "image": "assets/images/profile.jpg",
+  "paragraphs": [
+    "Data Engineer with 7+ years of experience in healthcare and finance sectors, proficient in building robust data pipelines using Python and SQL to manage and transform complex datasets, ensuring seamless data flow across systems. Skilled in cloud platforms, including AWS and Azure, with hands-on experience in services such as AWS EMR, S3, Redshift, Azure Data Lake, and Azure Data Factory to design and optimize scalable data solutions. Experienced with big data frameworks such as Apache Spark and Hadoop, enabling efficient handling of large data volumes and advanced analytics for finance and healthcare data.",
+    "Strong knowledge of ETL processes and tools like Apache Airflow, Talend, and Informatica, ensuring data quality, reliability, and consistency across multiple sources. Proficient in data warehousing and database management systems, including Redshift, Snowflake, and MySQL, to support secure storage and retrieval of structured and unstructured data. Expertise in data governance, data security, and regulatory compliance standards such as HIPAA for healthcare data and SOX for finance, ensuring privacy and compliance.",
+    "Hands-on experience with data visualization tools like Tableau and Power BI to create insightful dashboards and reports for stakeholders, supporting data-driven decision-making. Adept at collaborating with stakeholders and cross-functional teams, documenting data processes, and driving internal improvements to enhance overall data management efficiency."
+  ],
+  "statistics": [
+    {
+      "icon": "fas fa-project-diagram",
+      "value": "4+",
+      "label": "Projects Completed",
+      "color": "#FF6B6B"
+    },
+    {
+      "icon": "fas fa-briefcase",
+      "value": "2+",
+      "label": "Years Experience",
+      "color": "#4ECDC4"
+    },
+    {
+      "icon": "fas fa-code",
+      "value": "69+",
+      "label": "Technologies",
+      "color": "#FFE66D"
+    },
+    {
+      "icon": "fas fa-award",
+      "value": "0+",
+      "label": "Certifications",
+      "color": "#A8DADC"
+    }
+  ],
+  "downloadCV": {
+    "text": "Download Resume",
+    "href": "assets/files/resume.pdf",
+    "icon": "fas fa-download"
+  }
+}

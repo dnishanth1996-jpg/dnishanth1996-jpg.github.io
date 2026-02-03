@@ -1,0 +1,26 @@
+{
+  "_instructions": "Site-wide configuration and meta tags.",
+  "title": "NISHANTH DODDIPALLI | Data Engineer",
+  "description": "NISHANTH DODDIPALLI - Data Engineer | Portfolio",
+  "keywords": "Data Engineer, Portfolio, NISHANTH DODDIPALLI",
+  "author": "NISHANTH DODDIPALLI",
+  "siteName": "NISHANTH DODDIPALLI",
+  "siteTitle": "NISHANTH DODDIPALLI | Data Engineer",
+  "meta": {
+    "title": "NISHANTH DODDIPALLI | Data Engineer",
+    "description": "NISHANTH DODDIPALLI - Data Engineer | Portfolio",
+    "author": "NISHANTH DODDIPALLI",
+    "keywords": "Data Engineer, Portfolio, NISHANTH DODDIPALLI"
+  },
+  "branding": {
+    "name": "NISHANTH DODDIPALLI",
+    "tagline": "Data Engineer",
+    "logo": "/logo.png"
+  },
+  "settings": {
+    "year": 2026,
+    "enableAnimations": true,
+    "enableParticles": true,
+    "navbarScrollEffect": true
+  }
+}

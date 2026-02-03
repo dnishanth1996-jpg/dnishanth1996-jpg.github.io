@@ -1,0 +1,63 @@
+{
+  "_instructions": "Add your work experience here. Copy the experience object for each job.",
+  "sectionTitle": "Professional Experience",
+  "experiences": [
+    {
+      "title": "Data Engineer",
+      "company": "Baylor Scott & White Health",
+      "period": "Aug 2024 - Present",
+      "location": "",
+      "description": "Designed and implemented a scalable, real-time healthcare data pipeline to support patient risk stratification and clinical decision support. Leveraged Apache Kafka for real-time ingestion and stream processing of patient encounters, vitals, and medication data. Optimized pipeline performance, achieving a 40% reduction in processing time. Created Python-based API integrations to ingest external healthcare data sources. Performed advanced feature engineering on patient and encounter data using time-series analysis. Implemented robust data cleansing and validation logic during the ETL process. Developed incremental and batch processing pipelines in Azure Databricks, reducing data processing latency by 15%. Designed and mapped healthcare data into a centralized ER data model. Executed prompt-engineered GenAI pipelines to generate contextual explanations for patient risk scores. Built interactive Power BI dashboards to visualize key healthcare metrics. Utilized Teradata SQL for efficient healthcare data transformation and performance optimization.",
+      "responsibilities": [
+        "Designed and implemented a scalable, real-time healthcare data pipeline to support patient risk stratification and clinical decision support",
+        "Leveraged Apache Kafka for real-time ingestion and stream processing of patient encounters, vitals, and medication data",
+        "Optimized pipeline performance, achieving a 40% reduction in processing time",
+        "Created Python-based API integrations to ingest external healthcare data sources",
+        "Performed advanced feature engineering on patient and encounter data using time-series analysis",
+        "Implemented robust data cleansing and validation logic during the ETL process",
+        "Developed incremental and batch processing pipelines in Azure Databricks, reducing data processing latency by 15%",
+        "Designed and mapped healthcare data into a centralized ER data model",
+        "Executed prompt-engineered GenAI pipelines to generate contextual explanations for patient risk scores",
+        "Built interactive Power BI dashboards to visualize key healthcare metrics",
+        "Utilized Teradata SQL for efficient healthcare data transformation and performance optimization"
+      ]
+    },
+    {
+      "title": "Data Engineer",
+      "company": "Accenture",
+      "period": "May 2020 - Jul 2023",
+      "location": "",
+      "description": "Integrated data from core banking systems into a centralized financial data warehouse using Apache NiFi. Used MongoDB to store semi-structured financial data, enabling flexible schema evolution. Leveraged Python (Pandas, NumPy) to preprocess and cleanse raw financial data, improving data quality by 70%. Developed Tableau dashboards to visualize key financial metrics including credit risk indicators and portfolio performance. Employed Hive for batch processing and analysis of historical financial data. Applied MapReduce to perform large-scale aggregations for delinquency rates and customer lifetime value. Implemented Data Vault modeling using hubs, links, and satellites. Utilized Hadoop HDFS to store large-scale financial datasets, ensuring 32% higher availability. Built classification models (Logistic Regression, Random Forest) to predict credit risk and customer churn. Designed Star Schema for financial reporting and analytics. Integrated CI/CD rollback mechanisms into financial data pipelines.",
+      "responsibilities": [
+        "Integrated data from core banking systems into a centralized financial data warehouse using Apache NiFi",
+        "Used MongoDB to store semi-structured financial data, enabling flexible schema evolution",
+        "Leveraged Python (Pandas, NumPy) to preprocess and cleanse raw financial data, improving data quality by 70%",
+        "Developed Tableau dashboards to visualize key financial metrics including credit risk indicators and portfolio performance",
+        "Employed Hive for batch processing and analysis of historical financial data",
+        "Applied MapReduce to perform large-scale aggregations for delinquency rates and customer lifetime value",
+        "Implemented Data Vault modeling using hubs, links, and satellites",
+        "Utilized Hadoop HDFS to store large-scale financial datasets, ensuring 32% higher availability",
+        "Built classification models (Logistic Regression, Random Forest) to predict credit risk and customer churn",
+        "Designed Star Schema for financial reporting and analytics",
+        "Integrated CI/CD rollback mechanisms into financial data pipelines"
+      ]
+    },
+    {
+      "title": "Project Analyst",
+      "company": "Larsen & Toubro (L&T)",
+      "period": "Aug 2017 - May 2020",
+      "location": "",
+      "description": "Analyzed large-scale project execution, procurement, and site operations data across multiple infrastructure projects. Built automated dashboards in Power BI and Excel to monitor key KPIs such as budget utilization and subcontractor performance. Developed data-driven variance and root-cause analysis to identify delays. Collaborated with project managers and finance teams to translate analytical insights into operational improvements. Standardized reporting workflows, reducing manual effort by 30-35%. Wrote complex SQL queries (JOINs, CTEs, subqueries) to analyze project schedules and cost breakdowns. Performed data reconciliation and validation between finance systems and ERP records. Monitored sprint velocity and issue resolution metrics.",
+      "responsibilities": [
+        "Analyzed large-scale project execution, procurement, and site operations data across multiple infrastructure projects",
+        "Built automated dashboards in Power BI and Excel to monitor key KPIs such as budget utilization and subcontractor performance",
+        "Developed data-driven variance and root-cause analysis to identify delays",
+        "Collaborated with project managers and finance teams to translate analytical insights into operational improvements",
+        "Standardized reporting workflows, reducing manual effort by 30-35%",
+        "Wrote complex SQL queries (JOINs, CTEs, subqueries) to analyze project schedules and cost breakdowns",
+        "Performed data reconciliation and validation between finance systems and ERP records",
+        "Monitored sprint velocity and issue resolution metrics"
+      ]
+    }
+  ]
+}

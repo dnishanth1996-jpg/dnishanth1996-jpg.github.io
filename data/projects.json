@@ -1,0 +1,96 @@
+{
+  "_instructions": "Add your projects.",
+  "sectionTitle": "Featured Work",
+  "projects": [
+    {
+      "title": "generating-synthetic-data-using-gans",
+      "description": "Educational project for mastering software architecture",
+      "longDescription": "Educational project for mastering software architecture",
+      "category": "Software Development",
+      "technologies": [
+        "Jupyter Notebook"
+      ],
+      "icon": "fas fa-project-diagram",
+      "color": "#FF6B6B",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": true,
+      "github": "https://github.com/dnishanth1996-jpg/generating-synthetic-data-using-gans",
+      "demo": "https://github.com/dnishanth1996-jpg/generating-synthetic-data-using-gans",
+      "links": {
+        "github": "https://github.com/dnishanth1996-jpg/generating-synthetic-data-using-gans",
+        "demo": "https://github.com/dnishanth1996-jpg/generating-synthetic-data-using-gans",
+        "live": "https://github.com/dnishanth1996-jpg/generating-synthetic-data-using-gans"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "us-healthcare-analysis-powerbi",
+      "description": "Modern web application demonstrating clean code principles",
+      "longDescription": "Modern web application demonstrating clean code principles",
+      "category": "Development",
+      "technologies": [],
+      "icon": "fas fa-project-diagram",
+      "color": "#4ECDC4",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/dnishanth1996-jpg/us-healthcare-analysis-powerbi",
+      "demo": "https://github.com/dnishanth1996-jpg/us-healthcare-analysis-powerbi",
+      "links": {
+        "github": "https://github.com/dnishanth1996-jpg/us-healthcare-analysis-powerbi",
+        "demo": "https://github.com/dnishanth1996-jpg/us-healthcare-analysis-powerbi",
+        "live": "https://github.com/dnishanth1996-jpg/us-healthcare-analysis-powerbi"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "nursing-home-financial-analysis",
+      "description": "Interactive application built for continuous learning",
+      "longDescription": "Interactive application built for continuous learning",
+      "category": "Development",
+      "technologies": [],
+      "icon": "fas fa-project-diagram",
+      "color": "#FFE66D",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/dnishanth1996-jpg/nursing-home-financial-analysis",
+      "demo": "https://github.com/dnishanth1996-jpg/nursing-home-financial-analysis",
+      "links": {
+        "github": "https://github.com/dnishanth1996-jpg/nursing-home-financial-analysis",
+        "demo": "https://github.com/dnishanth1996-jpg/nursing-home-financial-analysis",
+        "live": "https://github.com/dnishanth1996-jpg/nursing-home-financial-analysis"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "dashboards-development-using-tableau-and-powerbi",
+      "description": "Full-featured application built as a learning exercise",
+      "longDescription": "Full-featured application built as a learning exercise",
+      "category": "Development",
+      "technologies": [],
+      "icon": "fas fa-project-diagram",
+      "color": "#A8DADC",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/dnishanth1996-jpg/dashboards-development-using-tableau-and-powerbi",
+      "demo": "https://github.com/dnishanth1996-jpg/dashboards-development-using-tableau-and-powerbi",
+      "links": {
+        "github": "https://github.com/dnishanth1996-jpg/dashboards-development-using-tableau-and-powerbi",
+        "demo": "https://github.com/dnishanth1996-jpg/dashboards-development-using-tableau-and-powerbi",
+        "live": "https://github.com/dnishanth1996-jpg/dashboards-development-using-tableau-and-powerbi"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    }
+  ]
+}
