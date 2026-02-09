@@ -3,23 +3,26 @@
   "sectionTitle": "Featured Work",
   "projects": [
     {
-      "title": "generating-synthetic-data-using-gans",
-      "description": "Educational project for mastering software architecture",
-      "longDescription": "Educational project for mastering software architecture",
-      "category": "Software Development",
+      "title": "Generating Synthetic Data Using GANs",
+      "description": "Generative Adversarial Network project for creating realistic synthetic datasets, addressing data scarcity and privacy concerns in machine learning workflows",
+      "longDescription": "A deep learning project using Generative Adversarial Networks (GANs) to generate synthetic tabular data that preserves the statistical properties of the original dataset, useful for data augmentation, privacy-preserving analytics, and ML model training",
+      "category": "Data Science",
       "technologies": [
-        "Jupyter Notebook"
+        "Python",
+        "Jupyter Notebook",
+        "TensorFlow",
+        "Pandas",
+        "NumPy"
       ],
-      "icon": "fas fa-project-diagram",
+      "icon": "fas fa-brain",
       "color": "#FF6B6B",
-      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&h=400&q=80&fit=crop",
       "featured": true,
       "github": "https://github.com/dnishanth1996-jpg/generating-synthetic-data-using-gans",
       "demo": "https://github.com/dnishanth1996-jpg/generating-synthetic-data-using-gans",
       "links": {
         "github": "https://github.com/dnishanth1996-jpg/generating-synthetic-data-using-gans",
-        "demo": "https://github.com/dnishanth1996-jpg/generating-synthetic-data-using-gans",
-        "live": "https://github.com/dnishanth1996-jpg/generating-synthetic-data-using-gans"
+        "demo": "https://github.com/dnishanth1996-jpg/generating-synthetic-data-using-gans"
       },
       "stats": {
         "status": "Completed",
@@ -27,21 +30,25 @@
       }
     },
     {
-      "title": "us-healthcare-analysis-powerbi",
-      "description": "Modern web application demonstrating clean code principles",
-      "longDescription": "Modern web application demonstrating clean code principles",
-      "category": "Development",
-      "technologies": [],
-      "icon": "fas fa-project-diagram",
+      "title": "US Healthcare Analysis - Power BI",
+      "description": "Interactive Power BI dashboard analyzing US healthcare data to uncover trends in patient outcomes, hospital performance, and cost efficiency",
+      "longDescription": "A healthcare analytics project leveraging Power BI to build interactive dashboards that visualize key healthcare metrics including patient demographics, readmission rates, treatment costs, and hospital performance indicators across the US healthcare system",
+      "category": "Data Analysis",
+      "technologies": [
+        "Power BI",
+        "SQL",
+        "DAX",
+        "Excel"
+      ],
+      "icon": "fas fa-heartbeat",
       "color": "#4ECDC4",
-      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
-      "featured": false,
+      "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=600&h=400&q=80&fit=crop",
+      "featured": true,
       "github": "https://github.com/dnishanth1996-jpg/us-healthcare-analysis-powerbi",
       "demo": "https://github.com/dnishanth1996-jpg/us-healthcare-analysis-powerbi",
       "links": {
         "github": "https://github.com/dnishanth1996-jpg/us-healthcare-analysis-powerbi",
-        "demo": "https://github.com/dnishanth1996-jpg/us-healthcare-analysis-powerbi",
-        "live": "https://github.com/dnishanth1996-jpg/us-healthcare-analysis-powerbi"
+        "demo": "https://github.com/dnishanth1996-jpg/us-healthcare-analysis-powerbi"
       },
       "stats": {
         "status": "Completed",
@@ -49,21 +56,25 @@
       }
     },
     {
-      "title": "nursing-home-financial-analysis",
-      "description": "Interactive application built for continuous learning",
-      "longDescription": "Interactive application built for continuous learning",
-      "category": "Development",
-      "technologies": [],
-      "icon": "fas fa-project-diagram",
+      "title": "Nursing Home Financial Analysis",
+      "description": "Financial performance analysis of nursing home facilities, evaluating revenue trends, cost structures, and operational efficiency metrics",
+      "longDescription": "A financial analytics project examining nursing home facility data to assess profitability, cost drivers, revenue patterns, and operational efficiency, providing actionable insights for healthcare administrators and financial stakeholders",
+      "category": "Data Analysis",
+      "technologies": [
+        "Python",
+        "SQL",
+        "Excel",
+        "Power BI"
+      ],
+      "icon": "fas fa-hospital",
       "color": "#FFE66D",
-      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
-      "featured": false,
+      "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=600&h=400&q=80&fit=crop",
+      "featured": true,
       "github": "https://github.com/dnishanth1996-jpg/nursing-home-financial-analysis",
       "demo": "https://github.com/dnishanth1996-jpg/nursing-home-financial-analysis",
       "links": {
         "github": "https://github.com/dnishanth1996-jpg/nursing-home-financial-analysis",
-        "demo": "https://github.com/dnishanth1996-jpg/nursing-home-financial-analysis",
-        "live": "https://github.com/dnishanth1996-jpg/nursing-home-financial-analysis"
+        "demo": "https://github.com/dnishanth1996-jpg/nursing-home-financial-analysis"
       },
       "stats": {
         "status": "Completed",
@@ -71,21 +82,26 @@
       }
     },
     {
-      "title": "dashboards-development-using-tableau-and-powerbi",
-      "description": "Full-featured application built as a learning exercise",
-      "longDescription": "Full-featured application built as a learning exercise",
-      "category": "Development",
-      "technologies": [],
-      "icon": "fas fa-project-diagram",
+      "title": "Dashboards Development - Tableau & Power BI",
+      "description": "Collection of interactive dashboards built using Tableau and Power BI for business intelligence, data storytelling, and executive reporting",
+      "longDescription": "A portfolio of interactive business intelligence dashboards developed using Tableau and Power BI, demonstrating data visualization best practices, KPI monitoring, trend analysis, and executive-level reporting across multiple domains",
+      "category": "Data Visualization",
+      "technologies": [
+        "Tableau",
+        "Power BI",
+        "SQL",
+        "DAX",
+        "Excel"
+      ],
+      "icon": "fas fa-chart-line",
       "color": "#A8DADC",
-      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
-      "featured": false,
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&h=400&q=80&fit=crop",
+      "featured": true,
       "github": "https://github.com/dnishanth1996-jpg/dashboards-development-using-tableau-and-powerbi",
       "demo": "https://github.com/dnishanth1996-jpg/dashboards-development-using-tableau-and-powerbi",
       "links": {
         "github": "https://github.com/dnishanth1996-jpg/dashboards-development-using-tableau-and-powerbi",
-        "demo": "https://github.com/dnishanth1996-jpg/dashboards-development-using-tableau-and-powerbi",
-        "live": "https://github.com/dnishanth1996-jpg/dashboards-development-using-tableau-and-powerbi"
+        "demo": "https://github.com/dnishanth1996-jpg/dashboards-development-using-tableau-and-powerbi"
       },
       "stats": {
         "status": "Completed",

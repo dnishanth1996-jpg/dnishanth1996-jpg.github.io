@@ -13,7 +13,7 @@
       ]
     },
     {
-      "category": "Frameworks & Libraries",
+      "category": "Packages & Libraries",
       "icon": "fas fa-toolbox",
       "color": "#4ECDC4",
       "skills": [
@@ -23,53 +23,75 @@
         "NumPy",
         "Matplotlib",
         "SciPy",
-        "Seaborn",
+        "Seaborn"
+      ]
+    },
+    {
+      "category": "Big Data & Engineering",
+      "icon": "fas fa-database",
+      "color": "#B19CD9",
+      "skills": [
         "Apache Spark",
         "Apache Hadoop",
         "Apache Kafka",
         "Apache Beam",
+        "Apache Airflow",
+        "Hive",
         "PySQL",
         "PySpark",
-        "Hive"
-      ]
-    },
-    {
-      "category": "Tools & Platforms",
-      "icon": "fas fa-wrench",
-      "color": "#FFE66D",
-      "skills": [
-        "Tableau",
-        "Power BI",
-        "Advanced Excel",
-        "Visual Studio Code",
-        "PyCharm",
-        "Jupyter Notebook",
-        "IntelliJ",
-        "MySQL",
-        "MongoDB",
-        "PostgreSQL",
-        "Oracle",
-        "Tera Data",
-        "Azure",
-        "AWS",
-        "Google Analytics",
-        "DAX",
-        "SAS",
-        "JIRA",
-        "SAP",
-        "SSIS",
-        "SSRS",
-        "Git",
-        "GitHub",
-        "Redshift",
-        "Snowflake",
-        "Apache Airflow",
+        "ETL/ELT",
         "Talend",
         "Informatica"
       ]
     },
     {
-      "category": "Technical Skills",
+      "category": "Visualization Tools",
+      "icon": "fas fa-chart-bar",
+      "color": "#FF8B94",
+      "skills": [
+        "Tableau",
+        "Power BI",
+        "Advanced Excel (Pivot Tables, VLOOKUP)",
+        "DAX",
+        "Google Analytics"
+      ]
+    },
+    {
+      "category": "Cloud & Databases",
+      "icon": "fas fa-cloud",
+      "color": "#FFE66D",
+      "skills": [
+        "AWS",
+        "Azure",
+        "MySQL",
+        "MongoDB",
+        "PostgreSQL",
+        "Oracle",
+        "Tera Data",
+        "Redshift",
+        "Snowflake"
+      ]
+    },
+    {
+      "category": "IDEs & DevOps",
+      "icon": "fas fa-wrench",
+      "color": "#4ECDC4",
+      "skills": [
+        "Visual Studio Code",
+        "PyCharm",
+        "Jupyter Notebook",
+        "IntelliJ",
+        "Git",
+        "GitHub",
+        "SAS",
+        "JIRA",
+        "SAP",
+        "SSIS",
+        "SSRS"
+      ]
+    },
+    {
+      "category": "Technical Domains",
       "icon": "fas fa-laptop-code",
       "color": "#A8DADC",
       "skills": [
@@ -77,11 +99,19 @@
         "Agile",
         "Waterfall",
         "Machine Learning Algorithms",
+        "Mathematics",
+        "Probability Distributions",
+        "Confidence Intervals",
+        "Hypothesis Testing",
+        "Regression Analysis",
+        "Linear Algebra",
+        "Advance Analytics",
         "Data Mining",
         "Data Visualization",
-        "Data warehousing",
-        "Data transformation",
+        "Data Warehousing",
+        "Data Transformation",
         "Data Storytelling",
+        "Association Rules",
         "Clustering",
         "Classification",
         "Regression",
@@ -90,13 +120,27 @@
         "Data Cleaning",
         "Data Wrangling",
         "Process Mapping",
+        "Solution Oriented",
+        "Ad Hoc Analysis",
         "Project Management",
+        "Data Presentation",
         "Requirement Gathering",
         "Root Cause Analysis",
+        "Data Sets",
+        "Data Modules",
         "Quantitative Analytics",
-        "ETL/ELT",
         "HIPAA",
         "SOX"
+      ]
+    },
+    {
+      "category": "Operating Systems",
+      "icon": "fas fa-desktop",
+      "color": "#FF6B6B",
+      "skills": [
+        "Windows",
+        "Linux",
+        "Mac iOS"
       ]
     }
   ]

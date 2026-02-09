@@ -3,13 +3,13 @@
   "greeting": "Hi, I'm",
   "name": "NISHANTH DODDIPALLI",
   "title": "Data Engineer",
-  "summary": "Data Engineer with 2+ years of experience specializing in Python, SQL, R.",
+  "summary": "Data Engineer with 7+ years of experience in healthcare and finance sectors, specializing in Python, SQL, R.",
   "avatarUrl": "/avatar.png",
   "tagline": "Data Engineer",
   "highlights": [
     {
       "icon": "fas fa-briefcase",
-      "text": "2+ Years Experience",
+      "text": "7+ Years Experience",
       "color": "#FF6B6B"
     },
     {
@@ -44,6 +44,11 @@
       "platform": "LinkedIn",
       "url": "https://www.linkedin.com/in/nishanth-doddipalli/",
       "icon": "fab fa-linkedin"
+    },
+    {
+      "platform": "GitHub",
+      "url": "https://github.com/dnishanth1996-jpg",
+      "icon": "fab fa-github"
     },
     {
       "platform": "Email",
