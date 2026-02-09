@@ -98,11 +98,20 @@ async function loadHero() {
         const response = await fetch('data/hero.json');
         const data = await response.json();
 
+        // Render avatar if available
+        if (data.avatarUrl) {
+            const avatarHtml = `<div class="hero-avatar"><img src="${data.avatarUrl}" alt="${data.name}" /></div>`;
+            const heroContent = document.querySelector('.hero-content');
+            if (heroContent) {
+                heroContent.insertAdjacentHTML('afterbegin', avatarHtml);
+            }
+        }
+
         // Set text content
         document.getElementById('hero-greeting').textContent = data.greeting;
         document.getElementById('hero-name').innerHTML = `${data.name.split(' ')[0]} <span>${data.name.split(' ').slice(1).join(' ')}</span>`;
         document.getElementById('hero-title').textContent = data.title;
-        document.getElementById('hero-tagline').textContent = data.tagline;
+        document.getElementById('hero-tagline').textContent = '';
         document.getElementById('hero-summary').textContent = data.summary;
 
         // Render highlights
@@ -161,10 +170,11 @@ async function loadAbout() {
         // Set section title
         document.getElementById('about-title').textContent = data.sectionTitle;
 
-        // Render paragraphs
+        // Render about content with image
         const textContainer = document.getElementById('about-text');
         if (textContainer && data.paragraphs) {
-            textContainer.innerHTML = data.paragraphs.map(paragraph => `
+            const imageHtml = data.image ? `<div class="about-image"><img src="${data.image}" alt="Profile" /></div>` : '';
+            textContainer.innerHTML = imageHtml + data.paragraphs.map(paragraph => `
                 <p>${paragraph}</p>
             `).join('');
         }
@@ -228,7 +238,6 @@ async function loadExperience() {
                                 ${exp.type ? `<span class="experience-type">• ${exp.type}</span>` : ''}
                             </p>
                         </div>
-                        <p class="experience-description">${exp.description}</p>
                         ${exp.responsibilities ? `
                             <ul class="experience-responsibilities">
                                 ${exp.responsibilities.map(resp => `<li>${resp}</li>`).join('')}

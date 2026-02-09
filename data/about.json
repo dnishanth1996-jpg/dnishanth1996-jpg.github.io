@@ -27,9 +27,9 @@
       "color": "#FFE66D"
     },
     {
-      "icon": "fas fa-award",
-      "value": "0+",
-      "label": "Certifications",
+      "icon": "fas fa-building",
+      "value": "3+",
+      "label": "Companies",
       "color": "#A8DADC"
     }
   ],
