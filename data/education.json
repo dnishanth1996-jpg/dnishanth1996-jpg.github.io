@@ -1,7 +1,6 @@
 {
-  "_instructions": "Add your education and certifications here.",
-  "sectionTitle": "Education & Certifications",
-  "certificationsTitle": "Certifications",
+  "_instructions": "Add your education here.",
+  "sectionTitle": "Education",
   "education": [
     {
       "degree": "Master of Science in Business Analytics",
@@ -19,6 +18,5 @@
       "details": "",
       "description": ""
     }
-  ],
-  "certifications": []
+  ]
 }
