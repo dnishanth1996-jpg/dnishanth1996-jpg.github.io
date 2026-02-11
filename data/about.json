@@ -1,7 +1,7 @@
 {
   "_instructions": "About section.",
   "sectionTitle": "About Me",
-  "image": "assets/images/profile.png",
+  "image": "assets/images/profile.jpg",
   "paragraphs": [
     "Data Engineer with 7+ years of experience in healthcare and finance sectors, proficient in building robust data pipelines using Python and SQL to manage and transform complex datasets, ensuring seamless data flow across systems. Skilled in cloud platforms, including AWS and Azure, with hands-on experience in services such as AWS EMR, S3, Redshift, Azure Data Lake, and Azure Data Factory to design and optimize scalable data solutions. Experienced with big data frameworks such as Apache Spark and Hadoop, enabling efficient handling of large data volumes and advanced analytics for finance and healthcare data.",
     "Strong knowledge of ETL processes and tools like Apache Airflow, Talend, and Informatica, ensuring data quality, reliability, and consistency across multiple sources. Proficient in data warehousing and database management systems, including Redshift, Snowflake, and MySQL, to support secure storage and retrieval of structured and unstructured data. Expertise in data governance, data security, and regulatory compliance standards such as HIPAA for healthcare data and SOX for finance, ensuring privacy and compliance.",
